@@ -12,7 +12,7 @@ printf("Cold weather.\n");
 else if(temp<30)
 printf("Normal weather.\n");
 else if(temp<40)
-printf("It's Hot.\n");
+printf("Its Hot.\n");
 else if(temp>40)
-printf("It's Very Hot.\n");
+printf("Its Very Hot.\n");
 }
