@@ -13,6 +13,6 @@ else if(temp<30)
 printf("Normal in Temperature.\n");
 else if(temp<40)
 printf("Its Hot.\n");
-else if(temp>40)
+else if(temp>=40)
 printf("Its Very Hot.\n");
 }
